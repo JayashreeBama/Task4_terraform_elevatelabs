@@ -1,16 +1,24 @@
 Hello!
 
-In this task i have learned to work hands-on with Terraform . 
+In this task i have learned to work hands-on with Terraform .  
+
 Terraform is a tool used to implement a DevOps concept "IaC". 
+
 Infrastructures can be created using a .tf file. 
+
 the configurations are written in main.tf file .
+
 I have deployed a server (nginx) using docker . 
+
 Terraform file consists of 2 basic contents . 
+
 -Providers = Docker , 
 -Resources = Docker image, Docker container . 
 
-i configured the provider as docker , 
-configured the nginx image ,
+i configured the provider as docker 
+
+configured the nginx image
+ 
 deployed it in my localhost 8081 .
 
 commands used
